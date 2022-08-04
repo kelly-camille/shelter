@@ -1,6 +1,6 @@
 
 .column {
-    float:left;
+    float:right;
     height: auto;
     border: 1px solid black;
     box-sizing: content-box;  
