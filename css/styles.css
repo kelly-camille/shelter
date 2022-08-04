@@ -1,5 +1,12 @@
 .column {
-    width: 300px;
-    float: left;
-    font-style:italic;
-  }
+    float:left;
+    height: auto;
+    border: 1px solid black;
+    box-sizing: content-box;  
+    padding: 50px;
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+}
